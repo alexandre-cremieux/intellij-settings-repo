@@ -1,0 +1,9 @@
+<application>
+  <component name="UISettings">
+    <option name="MAX_LOOKUP_LIST_HEIGHT" value="12" />
+    <option name="MAX_LOOKUP_WIDTH2" value="1151" />
+    <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
+    <option name="RIGHT_HORIZONTAL_SPLIT" value="true" />
+    <option name="SHOW_MEMORY_INDICATOR" value="true" />
+  </component>
+</application>
