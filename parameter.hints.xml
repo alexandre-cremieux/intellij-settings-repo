@@ -1,0 +1,15 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Scala">
+        <added pattern="pouring.Pouring.solutions(target)" />
+      </blacklist>
+    </blacklists>
+    <disabledLanguages>
+      <language id="JAVA" />
+      <language id="Scala" />
+      <language id="kotlin" />
+      <language id="Groovy" />
+    </disabledLanguages>
+  </component>
+</application>
