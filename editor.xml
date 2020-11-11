@@ -4,7 +4,7 @@
   </component>
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="14" />
-    <option name="FONT_FAMILY" value="Noto Sans Mono Blk" />
+    <option name="FONT_FAMILY" value="Noto Sans Mono ExtraBold" />
     <option name="LINE_SPACING" value="1.0" />
   </component>
   <component name="EditorSettings">
@@ -16,14 +16,6 @@
     <option name="KEEP_TRAILING_SPACE_ON_CARET_LINE" value="false" />
   </component>
   <component name="InlayHintsSettings">
-    <option name="disabledHintProviderIds">
-      <set>
-        <option value="JAVA.java.implicit.types" />
-      </set>
-    </option>
-    <option name="lastViewedProviderKeyId" value="parameter.hints.old" />
-  </component>
-  <component name="TodoConfiguration">
-    <pattern pattern="\b(todo|fixme)\b.*" />
+    <option name="lastViewedProviderKeyId" value="Scala.ScalaGeneralTypeHintsSettingsModel" />
   </component>
 </application>
