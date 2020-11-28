@@ -95,7 +95,7 @@
     <driver id="vertica">
       <option name="auto-sync" value="true" />
     </driver>
-    <driver id="java.sql.Driver" name="Mysql Local JDBC" driver-class="java.sql.Driver">
+    <driver id="java.sql.Driver" name="Mysql Local JDBC" driver-class="com.mysql.jdbc.Driver">
       <option name="auto-commit" value="true" />
       <option name="auto-sync" value="true" />
       <option name="format-sources-on-sync" value="true" />
