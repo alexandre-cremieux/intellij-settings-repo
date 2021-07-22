@@ -6,7 +6,7 @@
   </action>
   <action id="EditorDeleteLine" />
   <action id="MoveEditorToOppositeTabGroup">
-    <keyboard-shortcut first-keystroke="shift w" />
+    <keyboard-shortcut first-keystroke="shift alt numpad0" />
   </action>
   <action id="Scala.ShowImplicits">
     <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
