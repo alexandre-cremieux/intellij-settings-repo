@@ -6,7 +6,6 @@
   </action>
   <action id="EditorDeleteLine" />
   <action id="MoveEditorToOppositeTabGroup">
-    <keyboard-shortcut first-keystroke="less" />
     <keyboard-shortcut first-keystroke="shift w" />
   </action>
   <action id="Scala.ShowImplicits">
