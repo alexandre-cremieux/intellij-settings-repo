@@ -1,19 +1,23 @@
 <application>
-  <component name="FileTypeManager" version="18">
+  <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="gradle.kts" type="Kotlin" />
+      <removed_mapping ext="rs" approved="true" type="Android RenderScript" />
       <mapping ext="space.kts" type="Kotlin" />
+      <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
-      <mapping pattern=".jvmopts" type="PLAIN_TEXT" />
       <mapping pattern="._leaves" type="PLAIN_TEXT" />
-      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <mapping pattern=".jvmopts" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="csv" approved="true" type="CSV" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping ext="rs" approved="true" type="Android RenderScript" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="tsv" approved="true" type="TSV" />
+      <removed_mapping ext="csv" approved="true" type="CSV" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
     </extensionMap>
   </component>
 </application>
