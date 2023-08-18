@@ -5,6 +5,10 @@
     <entry key="ide.tree.ui.experimental" value="false" />
     <entry key="documentation.show.toolbar" value="true" />
     <entry key="scala.erase.compiler.process.jdk.once" value="false" />
+    <entry key="ide.editor.tab.selection.animation" value="true" />
+    <entry key="ide.new.editor.tabs.vertical.borders" value="true" />
+    <entry key="editor.focus.mode.color.light" value="474747" />
+    <entry key="editor.focus.mode.color.dark" value="474747" />
   </component>
   <component name="StatusBar">
     <option name="widgets">
